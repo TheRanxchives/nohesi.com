@@ -2,12 +2,18 @@
 
 body{
     font-family: "Inter", sans-serif;
+    background:#109AD7 !important;
+    color: #ffffff;
 }
 .container {
     display: flex;
     align-items: center;
     justify-content: center
   }
+  a{
+	text-decoration: none;
+	color: #ffffff;
+}
   
   img {
     max-width: 100%;
